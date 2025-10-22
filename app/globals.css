@@ -1,0 +1,6 @@
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* optional brand accent (used in the chat button) */
+:root { --accent:#c6f36b; }
