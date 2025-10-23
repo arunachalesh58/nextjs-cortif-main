@@ -1,14 +1,4 @@
-// export default function RootLayout({ children }) {
-//   return (
-//     <html lang="en">
-//       <body style={{ margin: 0, fontFamily: 'sans-serif' }}>
-//         {children}
-//       </body>
-//     </html>
-//   );
-// }
 
-import React from "react";
 import "./globals.css";
 
 export const metadata = { title: "cortif.ai" };
@@ -20,3 +10,4 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
     </html>
   );
 }
+
